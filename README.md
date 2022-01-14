@@ -15,7 +15,9 @@
   - Tipo de sistema:	Sistema operativo de 64 bits, procesador x64
 
 ## Programas utilizados
-  -  
-
+  - Git bash
+  - Github
+  - Python (Jupyter notebook)
 
 ## Explicación de la data utilizada
+  -  
