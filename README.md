@@ -20,4 +20,6 @@
   - Python (Jupyter notebook)
 
 ## Explicación de la data utilizada
-  -  
+  -  1.10.2 Hormone Levels in Baboons
+    - mkcmk
+  -  1.10.4 Data Explorer
